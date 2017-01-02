@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7549" systemVersion="14C109" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Maple" representedClassName="Maple" syncable="YES">
+        <attribute name="empaddr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="empid" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="empimage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="empName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="empsalary" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="empspeciality" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Maple" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
